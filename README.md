@@ -69,3 +69,5 @@ Interface Utilisateur : Développée avec SWING pour une expérience utilisateur
 NetBeans (Java) : Pour le développement de l’application.
 MySQL : Pour la gestion de la base de données.
 SWING : Pour l'interface graphique et rendre l’application facile à utiliser.
+
+![Aperçu](media/tp.mp4)
